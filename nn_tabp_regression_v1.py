@@ -1,4 +1,4 @@
-#A regression test on TABP neural network, written by Bin Wang.
+#A regression test on TABP neural network, written in Pytorch, by Bin Wang
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
